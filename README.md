@@ -6,7 +6,7 @@
 
 Designing AI-powered automation, integrations, and full-stack systems that turn complex business processes into reliable, scalable software.
 
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/spadaynx)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/spadanyx)
 ![Freelancing](https://img.shields.io/badge/Freelancing-3%2B%20Years-2ea44f?style=for-the-badge)
 
 </div>
@@ -142,7 +142,7 @@ I take on projects involving:
 
 <div align="center">
 
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/spadaynx)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/spadanyx)
 
 *Building systems, not just automations.*
 
