@@ -21,7 +21,6 @@ I build primarily with **n8n**, **Make**, and **Zapier**, connecting REST APIs, 
 
 My focus is always on designing around the real operational bottleneck and the data quality it depends on — not just stitching tools together. I map the existing process first, decide what's worth automating versus what still needs human judgment, and document the logic so systems stay maintainable after handover.
 
-🎓 Currently completing a B.S. in Computer Science at Lahore University of Management Sciences (LUMS)
 💼 3+ years of freelance experience, with a hands-on background in business operations that shapes how I scope and design systems
 
 <br>
